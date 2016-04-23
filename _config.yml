@@ -1,0 +1,28 @@
+name: 'Skoreyko & Sons'
+favicon: null
+layout_spectrum: 0.393931076861918
+typography_spectrum: 0.39860292966477573
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.687659173971042
+  lightness: 0.48581288009881973
+  saturation: 0.3313400123734027
+  rhythmicContrast: 0.0017600131686776876
+purpose: []
